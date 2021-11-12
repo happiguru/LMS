@@ -35,7 +35,7 @@
             <a href="{{ route('user.view') }}"><i class="ti-more"></i>View User</a>
           </li>
           <li>
-            <a href="calendar.html"><i class="ti-more"></i>Add User</a>
+            <a href="{{ route('users.add') }}"><i class="ti-more"></i>Add User</a>
           </li>
         </ul>
       </li>
